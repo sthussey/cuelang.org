@@ -161,7 +161,7 @@ Compare the following two equivalent schema definitions:
 {{< blocks/section color="white" >}}
 <div class="col">
 CUE
-{{< highlight none >}}
+```
 // Definitions.
 
 // Info describes...
@@ -175,7 +175,7 @@ Info: {
 	// Max is the limit.
 	max?: uint & <100
 }
-{{< /highlight >}}
+```
 </div>
 
 <div class="col">
